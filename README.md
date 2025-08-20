@@ -12,3 +12,5 @@ completmente lo hice desde el portal de github
 # modificado desde visual studio code  
 otro comentario nuevo de prueba
 
+#segunda edicion de visual studio code
+otro mas
