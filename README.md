@@ -8,3 +8,7 @@ Pueden hacer lo que quieran...
 
 # modificado desde github
 completmente lo hice desde el portal de github
+
+# modificado desde visual studio code  
+otro comentario nuevo de prueba
+
